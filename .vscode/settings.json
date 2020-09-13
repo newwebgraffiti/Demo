@@ -1,0 +1,5 @@
+{
+    "prettier.disableLanguages": [
+        "\"emmet.includeLanguages\": { \"javascript\" : \"javascriptreact\" } "
+    ]
+}
